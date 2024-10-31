@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background: #fff9da;
+    display: flex;
+    flex-direction: column;
+    min-height: 100;
+}
+
+header {
+    flex: 0 0 auto;
+    background: #00c3ff;
+    color: #fdfff3;
+    padding: 0.7px 0;
+    text-align: center;
+    z-index: 2;
+}
+
+
+
+
+
+aside a{
+    color: #fff9da;
+    font-size: x-small;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+    margin: 180px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+    z-index: 3;
+}
